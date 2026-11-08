@@ -113,9 +113,8 @@ Available for licensing, integration support, and custom algorithm work.
 
 提供授权、接入支持与定制算法开发。
 
-- **Telegram**: `YOUR_TELEGRAM_ID`
-- **Email**: `YOUR_EMAIL@example.com`
-- **WeChat**: `YOUR_WECHAT_ID`
+- **Telegram**: `https://t.me/bibilabu2077`
+- **WeChat**: `ProfessorLuoMing`
 
 > Please state your use case in the first message. Serious inquiries only.
 > 首次联系请说明用途。非诚勿扰。
