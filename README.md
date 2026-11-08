@@ -118,30 +118,3 @@ Available for licensing, integration support, and custom algorithm work.
 
 > Please state your use case in the first message. Serious inquiries only.
 > 首次联系请说明用途。非诚勿扰。
-
----
-
-## Disclaimer · 免责声明
-
-This project is provided for **educational and security-research purposes**, and for
-integrating with services you are authorized to access.
-
-本项目仅供**教育与安全研究**，以及接入你已获得授权的服务。
-
-- Not affiliated with, endorsed by, or connected to ByteDance / TikTok.
-  与字节跳动 / TikTok 无任何关联、背书或合作关系。
-- You are responsible for complying with applicable laws, platform terms, and
-  any agreements you have entered into.
-  使用者需自行确保遵守所在地法律、平台条款及已签署的协议。
-- Provided "as is", without warranty of any kind. Algorithm versions change;
-  no guarantee of future compatibility.
-  按"现状"提供，不附带任何担保。算法版本会变化，不保证未来兼容性。
-- The author assumes no liability for misuse or for any consequences arising
-  from use of this software.
-  作者不对任何滥用行为及其后果承担责任。
-
----
-
-<sub>Signature algorithms are protocol-level facts, not secrets. This repository documents capability and verification status only — implementation details are provided to licensees under agreement.</sub>
-
-<sub>签名算法属于协议层面的客观事实，并非秘密。本仓库只公开能力与验证状态，实现细节按协议向授权方提供。</sub>
